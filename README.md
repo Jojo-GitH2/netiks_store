@@ -86,8 +86,8 @@ Services that still need further expansion:
 
 ## Documentation
 
-- [Intern Quickstart Guide](/Users/woron/Documents/netiks-store/docs/INTERN_QUICKSTART_GUIDE.md)
-- [PRD](/Users/woron/Documents/netiks-store/docs/PRD.md)
-- [Project Documentation](/Users/woron/Documents/netiks-store/docs/PROJECT_DOCUMENTATION.md)
-- [Technical Plan](/Users/woron/Documents/netiks-store/docs/TECHNICAL_PLAN.md)
-- [Deployment Challenge Lab](/Users/woron/Documents/netiks-store/docs/DEPLOYMENT_CHALLENGE_LAB.md)
+- [Intern Quickstart Guide](docs\INTERN_QUICKSTART_GUIDE.md)
+- [PRD](docs\PRD.md)
+- [Project Documentation](docs\PROJECT_DOCUMENTATION.md)
+- [Technical Plan](docs\TECHNICAL_PLAN.md)
+- [Deployment Challenge Lab](docs\DEPLOYMENT_CHALLENGE_LAB.md)
