@@ -88,6 +88,6 @@ Services that still need further expansion:
 
 - [Intern Quickstart Guide](docs/INTERN_QUICKSTART_GUIDE.md)
 - [PRD](docs/PRD.md)
-- [Project Documentation](docs/DEPLOYMENT_CHALLENGE_LAB.mdPROJECT_DOCUMENTATION.md)
+- [Project Documentation](docs/PROJECT_DOCUMENTATION.md)
 - [Technical Plan](docs/TECHNICAL_PLAN.md)
 - [Deployment Challenge Lab](docs/DEPLOYMENT_CHALLENGE_LAB.md)
